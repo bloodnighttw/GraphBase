@@ -181,6 +181,8 @@ namespace Graph
             // true 代表有找到 false則代表沒有 這邊我是直接在樹狀結構遍歷 
             // 你也可以使用老師的方法 把所有Picture Type存在一個List裡面
             // 應該執行速度也會比較快 (我只是懶得這樣做)
+
+
         }
 
         public override string show()
